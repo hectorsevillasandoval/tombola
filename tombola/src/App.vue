@@ -121,6 +121,7 @@ border-bottom: 6px solid #ec8005;
 border-top: 0;
 border-left: 0;
 padding: .5rem 1rem;
+margin-top: 2rem;
 }
 #logo{
   position: absolute;
